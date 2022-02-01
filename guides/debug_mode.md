@@ -11,7 +11,7 @@ Now open the **userSettings.json** with a text editor.
 ![alt text](./src/ms_folder.png?raw=true)
 
 Go to the end of the file, and add the following string:
-**“ui.debug”:true** 
+**,“ui.debug”:true** 
 Make sure to include the quations marks too!
 ![alt text](./src/settings_json.png?raw=true)
 
